@@ -1,0 +1,25 @@
+GV21569;Siti Fatimah binti Jamil;Cash;PC Gaming;PCG076;013-5264875;2;02-06-22;Yes;Done
+GV26189;Ibrahim Omar bin Samad;Online Banking;Console;CON011;014-8634826;3;04-06-22;Yes;Done
+GV59234;Muhhamad Azmi bin Aziz;Online Banking;Console;CON036;016-5264823;1;07-06-22;No;Done
+GV15268;Abdur Rohman bin Mahmood;Cash;PC Gaming;PCG123;013-2925846;5;21-06-22;No;Pending
+GV26847;Muhammad Hassan bin Nasir;Cash;PC Gaming;PCG026;014-8889654;5;09-06-22;No;Done
+GV15632;Alif Wafi bin Najib;Online Banking;Console;CON156;018-1563248;10;30-06-22;Yes;Done
+GV15269;Idris Khan bin Shafiq Khan;Cash;PC Gaming;PCG002;019-1235849;2;13-06-22;Yes;Done
+GV15632;Maria Casey;Cash;PC Gaming;PCG016;014-9457777;6;18-06-22;No;Pending
+GV78561;Nur Adlina binti Ahmad;Online Banking;Console;CON001;014-2925786;9;29-06-22;No;Done
+GV88520;Nik Amir;Cash;Console;CON029;014-1593574;5;25-06-22;Yes;Done
+GV87452;Aiman bin Zaid;Cash;Console;CON562;017-9826564;2;13-09-22;No;Done
+GV78456;Hamidi bin Anwar;Online Banking;PC Gaming;PCG219;013-8795612;3;01-06-22;Yes;Pending
+GV32354;Karim bin Rashid;Cash;PC Gaming;PCG212;015-5123542;5;22-06-22;Yes;Done
+GV32354;Muhammad bin Affan;Cash;PC Gaming;PCG112;019-9985221;6;05-06-22;No;Done
+GV98796;Hilamn bin Hilmi;Online Banking;Console;CON741;011-45662154;1;01-07-22;No;Done;Done
+GV87323;Farah binti Farid;Cash;Console;CON875;011-79845211;2;29-06-22;No;Pending
+GV23114;Ameer bin Amiruddin;Cash;PC Gaming;PCG130;012-1245887;4;31-05-22;Yes;Pending
+GV32432;Hayati binti Hamid;Cash;Console;CON212;016-8791213;4;15-06-22;Yes;Done
+GV56543;Nabil bin Rahim;Online Banking;PC Gaming;PCG568;018-5461312;3;23-07-22;Yes;Done
+GV23445;Levi Akmal bin Aril;Online Banking;PC Gaming;PCG243;015-8413546;2;01-07-22;No;Pending
+GV12333;Salleh bin Mohamad;Cash;Console;CON335;012-5464789;7;25-06-22;Yes;Done
+GV68756;Omar bin Lukman;Online Banking;PC Gaming;PCG032;010-2135464;1;29-05-22;Yes;Done
+GV24546;Hasdi bin Daud;Cash;Console;CON243;017-4654312;5;14-07-22;Yes;Done
+GV87867;Norman bin Naim;Online Banking;PC Gaming;PCG124;018-5616878;3;05-06-22;No;Done
+GV87686;Salina binti Sulaiman;Online Banking;PC Gaming;PCG321;010-8462115;2;22-07-22;Yes;Done
